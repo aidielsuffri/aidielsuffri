@@ -1,0 +1,7 @@
+div p{
+    background-color: blue;
+}
+
+h2 + p{
+    background:pink ;
+}
