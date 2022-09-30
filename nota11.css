@@ -1,0 +1,11 @@
+ul{ 
+     list-style-type: square; 
+} 
+
+ul.a{
+    list-style-image: url(sqpurple.gif);
+}
+
+ul.b { 
+    list-style-position: inside; 
+} 

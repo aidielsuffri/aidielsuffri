@@ -1,0 +1,7 @@
+div b{
+    background-color: yellow ;
+}
+
+div ~ p{
+    background-color: blue ;
+}
